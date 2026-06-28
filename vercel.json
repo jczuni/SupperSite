@@ -1,6 +1,7 @@
 {
   "framework": "nextjs",
+  "rootDirectory": "backend",
   "installCommand": "npm install",
-  "buildCommand": "npm run build --workspace backend",
-  "outputDirectory": "backend/.next"
+  "buildCommand": "npm run build",
+  "outputDirectory": ".next"
 }
